@@ -142,3 +142,52 @@ a {
     text-align: center;
     font-size: 20px;
 }
+
+#html90 {
+    background-color:rgba(0, 255, 255, 0.808) ;
+    border:none;
+    border-radius: 4px 0px 0px 4px;
+    height: 10px;
+    width: 82%;
+}
+#html10 {
+    background-color:rgba(255, 0, 0, 0.808) ;
+    border:none;
+    border-radius: 0px 4px 4px 0px;
+    height: 10px;
+    width: 8%;
+}
+
+
+#css80 {
+    background-color:rgba(0, 255, 255, 0.808) ;
+    border:none;
+    border-radius: 4px 0px 0px 4px;
+    height: 10px;
+    width: 75%;
+}
+#css20 {
+    background-color:rgba(255, 0, 0, 0.808) ;
+    border:none;
+    border-radius: 0px 4px 4px 0px;
+    height: 10px;
+    width: 15%;
+}
+#python20 {
+    background-color:rgba(0, 255, 255, 0.808) ;
+    border:none;
+    border-radius: 4px 0px 0px 4px;
+    height: 10px;
+    width: 15%;
+}
+#python80 {
+    background-color:rgba(255, 0, 0, 0.808) ;
+    border:none;
+    border-radius: 0px 4px 4px 0px;
+    height: 10px;
+    width: 75%;
+}
+.cmp {
+    text-align: center;
+    font-size: 10px;
+}
