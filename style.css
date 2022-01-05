@@ -1,7 +1,15 @@
 body{
-    background-image: url(image/backgrond2.gif);
+    background-image: url(image/background2.gif);
     margin: 20px 10px;
     width: 100%;
+}
+h2 ,h3 {
+    margin: 20px 20px 0px 20px;
+}
+hr.h2 {
+    width: fit-content;
+    size: 4023px;
+    color: blue;
 }
 .logo {
     width: 200px;
@@ -10,18 +18,36 @@ body{
     font-size: 35px;
     font-family: 'Courier New', Courier, monospace;
 }
+.btn {
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom right, tomato, cyan);
+    width: fit-content;
+}
 .flex {
     display: flex;
 }
 section {
     border-radius: 30px 0px;
+    margin: 20px 10px;
+    background-image: url(image/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+section:hover {
+    border-radius: 0px 30px;
+    background-image: linear-gradient(to left,blue);
 }
 .about {
     font-family: 'Coming Soon', cursive;
- text-align: justify;
+    text-align: justify;
+    margin: 0px 10px;
+ 
 }
-.h-width {
-    width: 150%;
+
+a {
+    display: flex;
+
 }
 .profile1 {
     background-image: url(image/Photo_1641236226882.png);
@@ -30,6 +56,7 @@ section {
     width: 100%;
     float: right;
     margin-right: 5px;
+    background-position: right;
 }
 
 .profile2 {
