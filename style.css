@@ -94,7 +94,6 @@ a {
 }
 .flw {
     display: flex;
-    width: ;
 
     background-image: url(image/background.png);
     background-size: contain;
