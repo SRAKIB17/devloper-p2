@@ -1,7 +1,9 @@
 body{
-    background-image: url(image/background2.gif);
+    background-image: url(image/IrF.webp);
     margin: 20px 10px;
     width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h2 ,h3 {
     margin: 20px 20px 0px 20px;
